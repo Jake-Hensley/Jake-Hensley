@@ -6,6 +6,6 @@ My name is Jake Hensley and I am a sophomore Computer Engineering student at Nor
   <li>C++ - Skilled</li>
   <li>C - Proficient</li>
   <li>Matlab - Novice</li>
-  <li>Python - Novice</li>
+  <li>Python - Proficient</li>
 </ul>
 <p></p>
